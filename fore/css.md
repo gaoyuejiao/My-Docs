@@ -82,6 +82,7 @@
          100% {background:red; left:0px; top:0px;}  
       }  
 5. 多列  
+
 * column-count 属性规定元素应该被分隔的列数  
 * column-gap 属性规定列之间的间隔  
 * column-rule 属性设置列之间的宽度、样式和颜色规则。
