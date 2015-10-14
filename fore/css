@@ -1,9 +1,4 @@
 # css
-### 边框
-border-radius 属性用于创建圆角  
-> div
-{
-border:2px solid;
-border-radius:25px;
--moz-border-radius:25px; /* Old Firefox */
-}
+1. 边框
+* 圆角边框
+* 阴影
