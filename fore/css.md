@@ -1,7 +1,6 @@
 # css3
 1. 边框  
- 
-* 圆角边框  
+ * 圆角边框  
    div  
     {  
       border:2px solid;  
