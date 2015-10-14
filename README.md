@@ -16,6 +16,6 @@
 
 ## 前端开发
 ### [HTML](./fore/1. HTML基础.md)
-### CSS(./fore/css.md)
+### [CSS](./fore/css.md)
 ### JavaScript
 
