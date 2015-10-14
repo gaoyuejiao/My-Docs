@@ -1,6 +1,7 @@
 # css3
-1. 边框
- * 圆角边框  
+1. 边框  
+ 
+* 圆角边框  
    div  
     {  
       border:2px solid;  
@@ -30,7 +31,7 @@
       -webkit-transition: width 2s, height 2s, -webkit-transform 2s;  
       -o-transition: width 2s, height 2s,-o-transform 2s;  
    }  
-4. 动画
+4. 动画  
    div  
    {  
       width:100px;  
