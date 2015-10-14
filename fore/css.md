@@ -14,7 +14,7 @@
 2. 背景  
 * background-size 属性规定背景图片的尺寸。 
 * background-origin 属性  
-3. 过渡
+3. 过渡  
     div  
     {  
        transition: width 2s;  
